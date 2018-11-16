@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link to Profile of JST2018](https://github.com/JST2018)
